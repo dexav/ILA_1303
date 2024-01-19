@@ -56,9 +56,21 @@ In diesem Projekt möchte ich, dass man Buchstaben, Zahlen, Wörter und ganze S�
 ## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
-| ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| ---  | ---   | ---       | ---          | ---           |
+| 1.A |26.01.2024  |Xavier Nursiwat | Implementierung der Funktion "Buchstaben zu Morse Code" | 3 Stunden |
+| 1.B |26.01.2024  |Xavier Nursiwat  | Implementierung der Funktion "Morse Code zu Buchstaben" | 3 Stunden |
+| 1.C |26.01.2024  |Xavier Nursiwat  | Behandlung von Leerzeichen am Anfang und Ende der Eingabe | 1 Stunde |
+| 1.D |26.01.2024  |Xavier Nursiwat  | Behandlung einer leeren Eingabe | 1 Stunde |
+| 1.E |26.01.2024  |Xavier Nursiwat  | Behandlung von unerwarteten Zeichen im Morse Code | 2 Stunden |
+| 2.A |26.01.2024  |Xavier Nursiwat  | Implementierung der Funktion "Korrekte Morse Code Übersetzung" | 3 Stunden |
+| 3.A |02.02.2024  |Xavier Nursiwat  | Implementierung der Funktion "Unterstützung von Klein- und Großbuchstaben" | 2 Stunden |
+| 3.B |02.02.2024  |Xavier Nursiwat  | Implementierung der Funktion "Mischung von Buchstaben und Ziffern" | 2 Stunden |
+| 4.A |02.02.2024  |Xavier Nursiwat  | Implementierung der Funktion "Unterstützung von Sonderzeichen und Ziffern" | 2 Stunden |
+| 4.B |02.02.2024  |Xavier Nursiwat  | Behandlung von Umlauten und Sonderzeichen | 2 Stunden |
+| 5.A |02.02.2024  |Xavier Nursiwat  | Behandlung von Leerzeichen in der Eingabe | 1 Stunde |
+| 6.A |02.02.2024  |Xavier Nursiwat  | Behandlung einer falschen Morse Code-Struktur | 2 Stunden |
+| 7.A |02.02.2024  |Xavier Nursiwat  | Testen des Programms mit einer großen Menge an Text | 4 Stunden |
+
 
 Total: 
 
