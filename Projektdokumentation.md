@@ -48,11 +48,10 @@ In diesem Projekt möchte ich, dass man Buchstaben, Zahlen, Wörter und ganze S�
 | 6.2 | Falsche Morse Code Struktur | ".-- .... .- -" | Fehlermeldung oder spezielle Behandlung der ungültigen Struktur |
 | 7.2 | Große Menge an Text |One Piece ist das Beste| --- -. . / .--. .. . -.-. . / .. ... - / -.. .- ... / -... . ... - .|
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 10 Anwendungsfällen ein; und einen PAP.
+
 
 ## 2 Planen
 
