@@ -5,7 +5,7 @@ Nursiwat Xavier
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+| 12/01/2024      | 0.0.1   | "I" gemacht. Also Projekt ausgewählt und User Stories und Testfälle gemacht|
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
