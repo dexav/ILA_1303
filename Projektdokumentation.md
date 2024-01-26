@@ -77,7 +77,7 @@ Total: 28 Stunden
 
 ## 3 Entscheiden
 
-Wir haben uns dazu entschieden die Übersetzung in beide Richtungen zu machen damit man mit Freunden zum Beispiel zusammen in Morse Code schreiben kann.
+Wir haben uns dazu entschieden die Übersetzung in beide Richtungen zu machen damit man mit Freunden zum Beispiel zusammen in Morse Code schreiben kann. 
 
 ## 4 Realisieren
 
