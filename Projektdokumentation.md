@@ -44,7 +44,7 @@ In diesem Projekt möchte ich, dass man Buchstaben, Zahlen, Wörter und ganze S�
 | 3.2 | Mischung von Buchstaben und Ziffern | "A1B2C3" | ".- .---- -... ..--- -.-. ...--" |
 | 4.1 | Sonderzeichen und Ziffern | "!@#$ 123" | "-.-.-- .--.-. ...-..-..- ..--.. .---- ..--- ...--" |
 | 4.2 | Umlaute und Sonderzeichen | "äöüß!" | "Nicht unterstützte Zeichen im Morse Code"|
-| 5.1 | Leerzeichen interpretieren | ".... . .-.. .-.. ---" | "HELLO"|
+| 5.1 | Leerzeichen interpretieren | ".... . .-.. .-.. ---/.-- --- .-. .-.. -.." | "HELLO WORLD"|
 | 6.2 | Falsche Morse Code Struktur | ".-- .... .- -" | Fehlermeldung oder spezielle Behandlung der ungültigen Struktur |
 | 7.2 | Große Menge an Text |One Piece ist das Beste| --- -. . / .--. .. . -.-. . / .. ... - / -.. .- ... / -... . ... - .|
 
