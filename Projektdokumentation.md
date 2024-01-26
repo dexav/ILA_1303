@@ -6,7 +6,7 @@ Nursiwat Xavier
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 12/01/2024      | 0.0.1   | "I" gemacht. Also Projekt ausgewählt und User Stories und Testfälle gemacht|
-| 19/01/2024      | 0.0.2     | "P"+"E" gemacht. Also geplant was ich machen werde.                                                              |
+| 19/01/2024      | 0.0.2     | "P" gemacht. Also geplant was ich machen werde und ein bisschen mit dem "R" angefangen.|
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
