@@ -83,13 +83,13 @@ Wir haben uns dazu entschieden die Übersetzung in beide Richtungen zu machen da
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |19.1.24|Xavier Nursiwat|3 Stunden              |                   |
-| 1.B  ||Xavier Nursiwat|3 Stunden               |                   |
-| 1.C  ||Xavier Nursiwat|1 Stunde              |                   |
-| 1.D  ||Xavier Nursiwat|1 Stunde              |                   |
+| 1.A  |19.1.24|Xavier Nursiwat|3 Stunden              | 2 Stunden                   |
+| 1.B  |26.1.24|Xavier Nursiwat|3 Stunden               | 3 Stunden                   |
+| 1.C  |26.1.24|Xavier Nursiwat|1 Stunde              | 1 Stunden                   |
+| 1.D  |26.1.24|Xavier Nursiwat|1 Stunde              |  1 Stunden                  |
 | 1.E  ||Xavier Nursiwat|2 Stunden               |                   |
-| 2.A  ||Xavier Nursiwat|3 Stunden               |                   |
-| 3.A  ||Xavier Nursiwat|2 Stunden               |                   |
+| 2.A  |26.1.24|Xavier Nursiwat|3 Stunden               |   1 Stunden                 |
+| 3.A  |26.1.24|Xavier Nursiwat|2 Stunden               |   1 Stunden                 |
 | 3.B  ||Xavier Nursiwat|2 Stunden               |                   |
 | 4.A  ||Xavier Nursiwat|2 Stunden               |                   |
 | 4.B  ||Xavier Nursiwat|2 Stunden               |                   |
