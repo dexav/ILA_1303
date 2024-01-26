@@ -83,8 +83,24 @@ Wir haben uns dazu entschieden die Übersetzung in beide Richtungen zu machen da
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |19.1.24|           |3 Stunden              |                   |
+| 1.B  ||           |3 Stunden               |                   |
+| 1.C  ||           |1 Stunde              |                   |
+| 1.D  ||           |1 Stunde              |                   |
+| 1.E  ||           |2 Stunden               |                   |
+| 2.A  ||           |3 Stunden               |                   |
+| 3.A  ||           |2 Stunden               |                   |
+| 3.B  ||           |2 Stunden               |                   |
+| 4.A  ||           |2 Stunden               |                   |
+| 4.B  ||           |2 Stunden               |                   |
+| 5.A  ||           |1 Stunde               |                   |
+| 6.A  ||           |2 Stunden               |                   |
+| 4.A  ||           |4 Stunden               |                   |
+
+
+
+
+
 
 
 
