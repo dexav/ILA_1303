@@ -7,7 +7,7 @@ Nursiwat Xavier
 | ----- | ------- | ------------------------------------------------------------ |
 | 12/01/2024      | 0.0.1   | "I" gemacht. Also Projekt ausgewählt und User Stories und Testfälle gemacht|
 | 19/01/2024      | 0.0.2     | "P" gemacht. Also geplant was ich machen werde und ein bisschen mit dem "R" angefangen also Implementierung von "Buchstaben zu Morse Code".|
-| 26/01/2024      | 0.0.3   |"E" gemacht.Also alle wichtigen Entscheidungen die wir bis hierhin getroffen haben dokumentiert. "R" weitergemacht also.....|
+| 26/01/2024      | 0.0.3   |"E" gemacht.Also alle wichtigen Entscheidungen die wir bis hierhin getroffen haben dokumentiert. "R" weitergemacht also |
 
 ## 1 Informieren
 
@@ -83,19 +83,19 @@ Wir haben uns dazu entschieden die Übersetzung in beide Richtungen zu machen da
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |19.1.24|           |3 Stunden              |                   |
-| 1.B  ||           |3 Stunden               |                   |
-| 1.C  ||           |1 Stunde              |                   |
-| 1.D  ||           |1 Stunde              |                   |
-| 1.E  ||           |2 Stunden               |                   |
-| 2.A  ||           |3 Stunden               |                   |
-| 3.A  ||           |2 Stunden               |                   |
-| 3.B  ||           |2 Stunden               |                   |
-| 4.A  ||           |2 Stunden               |                   |
-| 4.B  ||           |2 Stunden               |                   |
-| 5.A  ||           |1 Stunde               |                   |
-| 6.A  ||           |2 Stunden               |                   |
-| 4.A  ||           |4 Stunden               |                   |
+| 1.A  |19.1.24|Xavier Nursiwat|3 Stunden              |                   |
+| 1.B  ||Xavier Nursiwat|3 Stunden               |                   |
+| 1.C  ||Xavier Nursiwat|1 Stunde              |                   |
+| 1.D  ||Xavier Nursiwat|1 Stunde              |                   |
+| 1.E  ||Xavier Nursiwat|2 Stunden               |                   |
+| 2.A  ||Xavier Nursiwat|3 Stunden               |                   |
+| 3.A  ||Xavier Nursiwat|2 Stunden               |                   |
+| 3.B  ||Xavier Nursiwat|2 Stunden               |                   |
+| 4.A  ||Xavier Nursiwat|2 Stunden               |                   |
+| 4.B  ||Xavier Nursiwat|2 Stunden               |                   |
+| 5.A  ||Xavier Nursiwat|1 Stunde               |                   |
+| 6.A  ||Xavier Nursiwat|2 Stunden               |                   |
+| 4.A  ||Xavier Nursiwat|4 Stunden               |                   |
 
 
 
