@@ -77,7 +77,7 @@ Total: 28 Stunden
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben uns dazu entschieden die Übersetzung in beide Richtungen zu machen damit man mit Freunden zum Beispiel zusammen in Morsecode schreiben kann.
 
 ## 4 Realisieren
 
@@ -86,7 +86,7 @@ Total: 28 Stunden
 | 1.A  |       |           |               |                   |
 | ...  |       |           |               |                   |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
