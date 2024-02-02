@@ -87,10 +87,10 @@ Wir haben uns dazu entschieden die Übersetzung in beide Richtungen zu machen da
 | 1.B  |26.1.24|Xavier Nursiwat|3 Stunden               |3 Stunden|
 | 1.C  |26.1.24|Xavier Nursiwat|1 Stunde              |1 Stunden|
 | 1.D  |26.1.24|Xavier Nursiwat|1 Stunde              |1 Stunden|
-| 1.E  ||Xavier Nursiwat|2 Stunden               |                   |
+| 1.E  ||Xavier Nursiwat|2 Stunden               | 1 Stunde                   |
 | 2.A  |26.1.24|Xavier Nursiwat|3 Stunden               |1 Stunden|
 | 3.A  |26.1.24|Xavier Nursiwat|2 Stunden               |1 Stunden|
-| 3.B  ||Xavier Nursiwat|2 Stunden               |                   |
+| 3.B  ||Xavier Nursiwat|2 Stunden               |   2 Stunden                |
 | 4.A  ||Xavier Nursiwat|2 Stunden               |                   |
 | 4.B  ||Xavier Nursiwat|2 Stunden               |                   |
 | 5.A  ||Xavier Nursiwat|1 Stunde               |                   |
