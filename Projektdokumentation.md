@@ -105,19 +105,19 @@ Wir haben uns dazu entschieden die Übersetzung in beide Richtungen zu machen da
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  | 23.02.2024      |          |        |
-| 1.2  | 23.02.2024      |          |        |
-| 1.3  |  23.02.2024     |          |        |
-| 1.4  |       23.02.2024|          |        |
-| 1.5  | 23.02.2024      |          |        |
-| 2.1  | 23.02.2024      |          |        |
-| 3.1  |23.02.2024       |          |        |
-| 3.2  | 23.02.2024      |          |        |
-| 4.1  | 23.02.2024      |          |        |
-| 4.2  | 23.02.2024      |          |        |
-| 5.1  | 23.02.2024      |          |        |
-| 6.1  | 23.02.2024      |          |        |
-| 7.1  | 23.02.2024      |          |        |
+| 1.1  | 23.02.2024      |          | Leonardo Grigioni       |
+| 1.2  | 23.02.2024      |          |  Leonardo  Grigioni     |
+| 1.3  |  23.02.2024     |          | Leonardo  Grigioni      |
+| 1.4  |  23.02.2024|          | Leonardo  Grigioni       |
+| 1.5  | 23.02.2024      |          | Leonardo  Grigioni       |
+| 2.1  | 23.02.2024      |          | Leonardo  Grigioni       |
+| 3.1  |23.02.2024       |          |  Leonardo  Grigioni      |
+| 3.2  | 23.02.2024      |          | Leonardo  Grigioni       |
+| 4.1  | 23.02.2024      |          | Xavier Nursiwat     |
+| 4.2  | 23.02.2024      |          |  Xavier Nursiwat      |
+| 5.1  | 23.02.2024      |          | Xavier Nursiwat      |
+| 6.1  | 23.02.2024      |          |  Xavier Nursiwat      |
+| 7.1  | 23.02.2024      |          |  Xavier Nursiwat     |
 
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
