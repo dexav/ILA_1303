@@ -46,8 +46,8 @@ In diesem Projekt möchte ich, dass man Buchstaben, Zahlen, Wörter und ganze S�
 | 4.1 | Sonderzeichen und Ziffern | "!@#$ 123" | "-.-.-- .--.-. ...-..-..- ..--.. .---- ..--- ...--" |
 | 4.2 | Umlaute und Sonderzeichen | "äöüß!" | "Nicht unterstützte Zeichen im Morse Code"|
 | 5.1 | Leerzeichen interpretieren | ".... . .-.. .-.. ---/.-- --- .-. .-.. -.." | "HELLO WORLD"|
-| 6.2 | Falsche Morse Code Struktur | ".-- .... .- -" | Fehlermeldung oder spezielle Behandlung der ungültigen Struktur |
-| 7.2 | Große Menge an Text |One Piece ist das Beste| --- -. . / .--. .. . -.-. . / .. ... - / -.. .- ... / -... . ... - .|
+| 6.1 | Falsche Morse Code Struktur | ".-- .... .- -" | Fehlermeldung oder spezielle Behandlung der ungültigen Struktur |
+| 7.1 | Große Menge an Text |One Piece ist das Beste| --- -. . / .--. .. . -.-. . / .. ... - / -.. .- ... / -... . ... - .|
 
 
 ### 1.4 Diagramme
@@ -99,12 +99,6 @@ Wir haben uns dazu entschieden die Übersetzung in beide Richtungen zu machen da
 
 
 
-
-
-
-
-
-
 ## 5 Kontrollieren
 
 ### 5.1 Testprotokoll
@@ -112,18 +106,21 @@ Wir haben uns dazu entschieden die Übersetzung in beide Richtungen zu machen da
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
 | 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.2  |       |          |        |
+| 1.3  |       |          |        |
+| 1.4  |       |          |        |
+| 1.5  |       |          |        |
+| 2.1  |       |          |        |
+| 3.1  |       |          |        |
+| 3.2  |       |          |        |
+| 4.1  |       |          |        |
+| 4.2  |       |          |        |
+| 5.1  |       |          |        |
+| 6.1  |       |          |        |
+| 7.1  |       |          |        |
+
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
