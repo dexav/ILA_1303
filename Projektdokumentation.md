@@ -120,8 +120,6 @@ Wir haben uns dazu entschieden die Übersetzung in beide Richtungen zu machen da
 | 7.1  | 23.02.2024      |         OK   |  Xavier Nursiwat     |
 
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Das Programm funktioniert komplett. Der Testfall 1.5 war nicht NOK, weil es nicht als Fehlermeldung angezeigt wurde.
 
-## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
