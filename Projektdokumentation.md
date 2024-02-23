@@ -93,7 +93,7 @@ Wir haben uns dazu entschieden die Übersetzung in beide Richtungen zu machen da
 | 3.A  |26.1.24|Xavier Nursiwat|2 Stunden               |1 Stunden|
 | 3.B  |02.02.24|Xavier Nursiwat|2 Stunden               |   2 Stunden                |
 | 4.A  |02.02.24|Xavier Nursiwat|2 Stunden               |  1 Stunde                 |
-| 4.B  ||Xavier Nursiwat|2 Stunden               |                   |
+| 4.B  |23.02.2024|Xavier Nursiwat|2 Stunden               | 1 Stunde                  |
 | 5.A  |02.02.24|Xavier Nursiwat|1 Stunde               |  1 Stunde                 |
 | 6.A  |02.02.24|Xavier Nursiwat|2 Stunden               |   1 Stunde                |
 
