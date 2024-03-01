@@ -99,6 +99,11 @@ Wir haben uns dazu entschieden die Übersetzung in beide Richtungen zu machen da
 | 5.A  |02.02.24|Xavier Nursiwat|1 Stunde               |  1 Stunde                 |
 | 6.A  |02.02.24|Xavier Nursiwat|2 Stunden               |   1 Stunde                |
 
+### 4.1 Plagiat/Quellen
+
+Wir haben nur zum Teil ChatGPT benutzt um uns ein Dictionary von Morsecode zu Text und umgekehrt generieren lassen.
+Wir haben ChatGPT noch gefragt wie man von Text zu Morsecode übertzen implementiert. 
+
 
 
 ## 5 Kontrollieren
