@@ -16,9 +16,9 @@ Nursiwat Xavier
 
 ### 1.1 Ihr Projekt
 
-Ich mache ein Morscode-Decoder in Python, der Morscode in Buchstaben und umgekehrt überstzen kann.
+Wir machen ein Morscode-Decoder in Python, der Morscode in Buchstaben und umgekehrt überstzen kann.
 
-In diesem Projekt möchte ich, dass man Buchstaben, Zahlen, Wörter und ganze Sätze übersetzen kann. Dabei möchte ich lernen, wie man eine Eingabe von "Buchstaben" in etwas anderes tranformiert/übersetzt.
+In diesem Projekt möchten wir, dass man Buchstaben, Zahlen, Wörter und ganze Sätze übersetzen kann. Dabei möchten wir lernen, wie man eine Eingabe von "Buchstaben" in etwas anderes tranformiert/übersetzt.
 
 ### 1.2 User Stories
 
