@@ -3,7 +3,7 @@ class MorseCodeTranslator:
     
     def __init__(self):
         self.morse_code_dict = {
-            '.-': 'A', '-...': 'B', '-.-.': 'C', '-..': 'D', '.': 'E',
+            '.-': 'A', '-...': 'B', '-.-.': 'C', '-..': 'D', '.': 'E',                                                #Die Dictionaries 'morse_code_dict' und 'textToMorsecode' haben wir von ChatGPT generieren lassen
             '..-.': 'F', '--.': 'G', '....': 'H', '..': 'I', '.---': 'J',
             '-.-': 'K', '.-..': 'L', '--': 'M', '-.': 'N', '---': 'O',
             '.--.': 'P', '--.-': 'Q', '.-.': 'R', '...': 'S', '-': 'T',
@@ -31,7 +31,8 @@ class MorseCodeTranslator:
         }
 
         
-    def morse_to_text(self, morse_code_in):
+    def morse_to_text(self, morse_code_in):                                    # Diese Funktion haben wir von ChatGPT
+        words = morse_code_in.split(' / ')
         words = morse_code_in.split(' / ')
         decoded_message = ''
         for word in words:
