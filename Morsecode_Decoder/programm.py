@@ -77,9 +77,9 @@ class Program:
                 print("Ungültige Eingabe.")
 
             option = input("Willst du nochmal übersetzen(1) oder das Programm beenden(2)? ")
-            if option != '1':
+            if option == '2':
                 loop = False
-            elif option != '1'or'2':
+            elif option != '1'and'2':
                 print("ungültige Eingabe")
 
 
