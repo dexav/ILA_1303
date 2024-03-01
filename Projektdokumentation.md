@@ -1,7 +1,7 @@
 # Projekt-Dokumentation
 
 
-Nursiwat Xavier
+Nursiwat Xavier, Grigioni Leonardo 
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -68,10 +68,10 @@ In diesem Projekt möchten wir, dass man Buchstaben, Zahlen, Wörter und ganze S
 | 2.A |26.01.2024  |Xavier Nursiwat  | Implementierung der Funktion "Korrekte Morse Code Übersetzung" | 3 Stunden |
 | 3.A |02.02.2024  |Xavier Nursiwat  | Implementierung der Funktion "Unterstützung von Klein- und Großbuchstaben" | 2 Stunden |
 | 3.B |02.02.2024  |Xavier Nursiwat  | Implementierung der Funktion "Mischung von Buchstaben und Ziffern" | 2 Stunden |
-| 4.A |02.02.2024  |Xavier Nursiwat  | Implementierung der Funktion "Unterstützung von Sonderzeichen und Ziffern" | 2 Stunden |
-| 4.B |02.02.2024  |Xavier Nursiwat  | Behandlung von Umlauten und Sonderzeichen | 2 Stunden |
-| 5.A |02.02.2024  |Xavier Nursiwat  | Behandlung von Leerzeichen in der Eingabe | 1 Stunde |
-| 6.A |02.02.2024  |Xavier Nursiwat  | Behandlung einer falschen Morse Code-Struktur | 2 Stunden |
+| 4.A |02.02.2024  |Leonardo Grigioni  | Implementierung der Funktion "Unterstützung von Sonderzeichen und Ziffern" | 2 Stunden |
+| 4.B |02.02.2024  |Leonardo Grigioni  | Behandlung von Umlauten und Sonderzeichen | 2 Stunden |
+| 5.A |02.02.2024  |Leonardo Grigioni  | Behandlung von Leerzeichen in der Eingabe | 1 Stunde |
+| 6.A |02.02.2024  |Leonardo Grigioni  | Behandlung einer falschen Morse Code-Struktur | 2 Stunden |
 
 
 
@@ -94,10 +94,10 @@ Wir haben uns dazu entschieden die Übersetzung in beide Richtungen zu machen da
 | 2.A  |26.1.24|Xavier Nursiwat|3 Stunden               |1 Stunden|
 | 3.A  |26.1.24|Xavier Nursiwat|2 Stunden               |1 Stunden|
 | 3.B  |02.02.24|Xavier Nursiwat|2 Stunden               |   2 Stunden                |
-| 4.A  |02.02.24|Xavier Nursiwat|2 Stunden               |  1 Stunde                 |
-| 4.B  |23.02.2024|Xavier Nursiwat|2 Stunden               | 1 Stunde                  |
-| 5.A  |02.02.24|Xavier Nursiwat|1 Stunde               |  1 Stunde                 |
-| 6.A  |02.02.24|Xavier Nursiwat|2 Stunden               |   1 Stunde                |
+| 4.A  |02.02.24|Leonardo Grigioni|2 Stunden               |  1 Stunde                 |
+| 4.B  |23.02.2024|Leonardo Grigioni|2 Stunden               | 1 Stunde                  |
+| 5.A  |02.02.24|Leonardo Grigioni|1 Stunde               |  1 Stunde                 |
+| 6.A  |02.02.24|Leonardo Grigioni|2 Stunden               |   1 Stunde                |
 
 ### 4.1 Plagiat/Quellen
 
